@@ -1,11 +1,21 @@
-id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
-1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18
-2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71
-3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10
-4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86
-5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05
-6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92
-7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89
-8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
-9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
-10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness,instrumentalness,popularity,release_year
+1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18,0.02,88,2021
+2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71,0.85,54,2020
+3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10,0.12,71,2015
+4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86,0.90,38,2019
+5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05,0.01,92,2023
+6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92,0.95,22,2017
+7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89,0.40,35,2012
+8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22,0.70,60,2018
+9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78,0.88,45,2021
+10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35,0.05,67,2022
+11,Concrete Crown,Verse Theory,hip hop,confident,0.78,95,0.62,0.85,0.08,0.00,83,2022
+12,Moonlit Sonata Redux,Clara Vey,classical,peaceful,0.18,66,0.32,0.20,0.97,0.98,18,2009
+13,Dusty Porch Swing,Willow Creek,country,nostalgic,0.52,104,0.70,0.63,0.68,0.03,49,2016
+14,Neon Overdrive,Pulsewave,edm,euphoric,0.96,128,0.73,0.92,0.03,0.80,78,2024
+15,Velvet Hours,Amara Lane,r&b,romantic,0.48,84,0.58,0.71,0.40,0.02,62,2020
+16,Iron Requiem,Grave Hollow,metal,angry,0.97,168,0.22,0.45,0.02,0.15,41,2014
+17,Island Hours,Roots Harbor,reggae,uplifting,0.60,76,0.86,0.80,0.45,0.10,33,2011
+18,Paper Boats,Ember & Oak,folk,melancholic,0.30,92,0.25,0.38,0.91,0.08,27,2018
+19,Fuego Lento,Sol Rivera,latin,playful,0.74,100,0.88,0.89,0.30,0.04,80,2023
+20,Empty Station Blues,Hank Marlowe,blues,sad,0.38,70,0.18,0.42,0.75,0.20,15,1998
